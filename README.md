@@ -10,9 +10,8 @@ Desenvolvedor de software e técnico em Computação Gráfica!
 GitHub Stats
 
 <div>
-  <a href="https://github.com/jao338"><a href="https://github.com/jao338/github-readme-stats" ><img align="center" src="https://github-readme-stats.vercel.app/api?username=jao338&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"><br><br>
+  <a href="https://github.com/jao338"><a href="https://github.com/jao338/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jao338&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"><br><br>
   <a href="https://github.com/jao338/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jao338&layout=compact&theme=buefy&hide_border=true">
-    
 </div>
    
 <br><br>
