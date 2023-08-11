@@ -3,7 +3,7 @@
 Desenvolvedor de software e técnico em Computação Gráfica!
 
 - 🛠 Atualmente cursando Ténico em Informática.  
-- 🎯 Estudando HTML, CSS, JavaScript, Java e MySQL.
+- 🎯 Estudando HTML, CSS, JavaScript, PHP, Java e MySQL.
 - 💻Apaixonado por jogos e doido por tecnologia.
 
 <br>
