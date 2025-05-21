@@ -1,9 +1,9 @@
 ## Olá, meu nome é João Henrique!
 
-Desenvolvedor de software e técnico em Computação Gráfica!
+Sou desenvolvedor de software, Técnico em Computação Gráfica e Técnico em Informática!
 
-- 🛠 Atualmente cursando Ténico em Informática.  
-- 🎯 Estudando HTML, CSS, JavaScript, PHP, Java e MySQL.
+- 🛠 Atualmente cursando Análise e Deseovolvimento de Sistemas(3/5).  
+- 🎯 Estudando Vue, Laravel, PHP, JavaScript/TypeScript, Java, C# e MySQL/SqlServer.
 - 💻Apaixonado por jogos e doido por tecnologia.
 
 <br>
