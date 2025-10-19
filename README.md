@@ -30,12 +30,15 @@ Atualmente atuo na **C.R.M Soluções LTDA**, participando de todas as etapas do
 
 ### 📊 Estatísticas do GitHub
 
-<div align="center">
+<div align="start">
   <a href="https://github.com/jao338">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jao338&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jao338&layout=compact&theme=buefy&hide_border=true"/>
-  </a>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jao338&theme=github" /> 
+</a>
 </div>
+
+---
 
 ---
 
