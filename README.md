@@ -1,38 +1,64 @@
-## Olá, meu nome é João Henrique!
+## 👋 Olá! Sou o João Henrique
 
-Sou desenvolvedor de software, Técnico em Computação Gráfica e Técnico em Informática!
+Sou **Desenvolvedor Web Full Stack**, Técnico em **Informática** e **Computação Gráfica**, com experiência prática no desenvolvimento de aplicações modernas, escaláveis e com foco em performance.  
+Atualmente atuo na **C.R.M Soluções LTDA**, participando de todas as etapas do ciclo de desenvolvimento — da análise ao deploy — sempre com atenção às boas práticas e à clareza do código.
 
-- 🛠 Atualmente cursando Análise e Deseovolvimento de Sistemas(3/5).  
-- 🎯 Estudando Vue, Laravel, PHP, JavaScript/TypeScript, Java, C# e MySQL/SqlServer.
-- 💻Apaixonado por jogos e doido por tecnologia.
+🎓 **Formação**
+- Tecnólogo em **Análise e Desenvolvimento de Sistemas** – Senac (4/5)
+- Técnico em **Informática** – Senac Rio Claro (2022–2024)
+- Técnico em **Computação Gráfica** – Senac Rio Claro (2018–2021)
 
-<br>
-GitHub Stats
+💡 **Áreas de interesse:** Desenvolvimento Full Stack, UX voltado para sistemas web, e integração entre frontend e backend.
+
+---
+
+### 🧠 Tecnologias e Ferramentas
+
+**Frontend**
+> Vue 2/3 • Quasar Framework • JavaScript/TypeScript • HTML5 • CSS3 • Testes e2e • Bootstrap • Tailwind CSS
+
+**Backend**
+> PHP • Laravel • C# • Java
+
+**Banco de Dados**
+> MySQL • SQL Server
+
+**Outros**
+> Git • Linux • REST APIs • Testes unitários/e2e • Docker
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <a href="https://github.com/jao338">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jao338&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jao338&layout=compact&theme=buefy&hide_border=true"/>
+  </a>
+</div>
+
+---
+
+### 🌐 Contato e Redes
 
 <div>
-  <a href="https://github.com/jao338"><a href="https://github.com/jao338/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jao338&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"><br><br>
-  <a href="https://github.com/jao338/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jao338&layout=compact&theme=buefy&hide_border=true">
-</div>
-   
-<br><br>
-Linguagens
-<div style="display: inline_block">
-  
-  <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JAVA" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="MYSQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  
-</div>
-    
-<br>
-Redes sociais e portfólios
-<div> 
-  <a href="https://instagram.com/jao338" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/João-henrique-44abb519a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://github.com/jao338" target="_blank"><img src="https://img.shields.io/badge/-GitHub-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
-  <a href="https://www.behance.net/joaohenriq68c4" target="_blank"><img src="https://img.shields.io/badge/-Behance-7289DA?style=for-the-badge&logo=behance&logoColor=white%22" target="_blank"></a> 
-  
+  <a href="mailto:joaohenriquerc123@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/joão-henrique-44abb519a/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/jao338" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://github.com/jao338" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-%23333?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.behance.net/joaohenriq68c4" target="_blank">
+    <img src="https://img.shields.io/badge/-Behance-7289DA?style=for-the-badge&logo=behance&logoColor=white"/>
+  </a>
 </div>
 
+---
+
+💬 *“Transformar ideias em código é mais do que trabalho — é sobre construir soluções que fazem sentido.”*
